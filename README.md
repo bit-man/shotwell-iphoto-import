@@ -1,3 +1,5 @@
+# Project moved to https://gitlab.com/bit-man/shotwell-iphoto-import
+
 This repository contains a script to import an iPhoto library into Shotwell.
 
 It preserves modified images using Shotwell's "open in external editor" 
